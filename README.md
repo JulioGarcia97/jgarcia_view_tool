@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = JGarciaViewTool::RenderCopyRight.copyright('Name', 'Message')
+```
 
 ## Development
 
@@ -30,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/jgarcia_view_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/JulioGarcia97/jgarcia_view_tool.
 
 
 ## License
